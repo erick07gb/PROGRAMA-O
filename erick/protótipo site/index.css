@@ -1,0 +1,22 @@
+body {
+      
+    color: white;
+    background-color: black;
+
+}
+
+header {
+    background-color: rgb(90, 86, 86);
+    padding: 40px;
+    font-size: 30px;
+    
+
+}
+
+ul {
+    display : flex;
+    list-style-type: none;
+    padding: 20px;
+    justify-content: space-between;
+
+}
